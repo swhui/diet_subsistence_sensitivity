@@ -1,0 +1,14 @@
+Column Number,Column/Variable Name,Units,Description
+1,item,USD,The name of the food item.
+2,price,grams,"The cost/price of the item as of March 1, 2021."
+3,calories,calories,The amount of energy that the food provides.
+4,serving_size,grams,The amount of food a person actually consumes (not necessarily on what they should eat).
+5,total_fat,grams,The amount of total fat that the food provides; fat is defined as a type of lipid in which fatty acid chains have all or predominantly single bonds
+6,saturated_fat,grams,"The measurement of combined value of the different types of dietary fat that the food provides, including saturated fat, polyunsaturated fat, and monounsaturated fat."
+7,cholesterol,milligrams,The amount of cholesterol that the food provides; a fat-like substance in the body cells to regulate hormone production and digestion.
+8,sodium_mg,milligrams,The amount of sodium that the food provides; sodium is a major mineral that helps blood pressure and fluid volume regulation in the body.
+9,total_carbohydrate,grams,"The total amount of carbohydrates that the food provides, including the three main types of carbohydrates—starches, sugar, and fiber."
+10,dietary_fiber,grams,"The amount of dietary fiber, both soluble and insoluble, that the food provides. Dietary fiber refers to diet nurients that are nondigestible carbohydrates and lignin that are intrinsic and intact in plants."
+11,sugars,grams,"The amount of sugar that the food provides, which include sugars that are both naturally-occurring and added."
+12,protein,grams,"The amount of protein that the food provides, including essential and nonessential amino acids. Protein is a macronutrient that is important for body processes such as lood clotting, fluid balance, immune response, vision, and production of hormones, antibodies, and enzymes."
+13,notes,NA,"Some food items did not have all of the macronutrient information, so average estimates of the food item were applied."
