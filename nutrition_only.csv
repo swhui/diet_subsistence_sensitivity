@@ -1,0 +1,461 @@
+food item,calories,serving_size,total_fat,saturated_fat,cholesterol,sodium,total_carbohydrate,dietary_fiber,sugars,protein
+acai primo bowl,510.0,510.0,10.0,3.5,0.0,45.0,101.0,11.0,65.0,8.0
+vanilla blue sky bowl,330.0,510.0,9.0,3.0,0.0,85.0,62.0,8.0,33.0,6.0
+chunky strawberry bowl,580.0,510.0,16.0,2.5,0.0,135.0,94.0,11.0,50.0,21.0
+island pitaya bowl,480.0,510.0,8.0,2.5,0.0,20.0,102.0,11.0,70.0,7.0
+ginger shot,25.0,57.0,0.0,0.0,0.0,0.0,6.0,0.0,3.0,0.0
+tumeric shot,25.0,57.0,0.0,0.0,0.0,0.0,6.0,0.0,3.0,0.0
+wheatgrass shot,25.0,57.0,0.0,0.0,0.0,0.0,5.0,0.0,4.0,0.0
+ginger lemon cayenne shot,15.0,57.0,0.0,0.0,0.0,0.0,4.0,0.0,1.0,0.0
+ginger orange cayenne shot,25.0,57.0,0.0,0.0,0.0,0.0,5.0,0.0,3.0,0.0
+"acai super-antioxidant smoothie, large",540.0,794.0,7.0,2.0,0.0,125.0,110.0,6.0,87.0,10.0
+"pb and banana whey protein smoothie, large",810.0,794.0,33.0,9.0,105.0,370.0,89.0,3.0,68.0,42.0
+"pb and banana pea protein smoothie, large",810.0,794.0,33.0,8.0,25.0,560.0,73.0,7.0,52.0,41.0
+"whey protein berry workout smoothie, large",440.0,794.0,1.5,0.5,40.0,170.0,84.0,5.0,66.0,23.0
+"pea protein berry workout smoothie, large",460.0,794.0,1.5,0.0,0.0,270.0,88.0,5.0,70.0,16.0
+"pb chocolate love smoothie, large",760.0,794.0,33.0,8.0,25.0,350.0,105.0,7.0,74.0,21.0
+"orange c-booster smoothie, large",410.0,794.0,2.0,1.0,0.0,30.0,95.0,3.0,79.0,4.0
+"lotta horchata smoothie, large",320.0,794.0,3.0,0.0,0.0,250.0,66.0,2.0,55.0,7.0
+"la vida mocha smoothie, large",510.0,794.0,3.5,1.5,10.0,240.0,109.0,2.0,96.0,15.0
+"acai super-antioxidant smoothie, medium",440.0,624.0,6.0,1.5,0.0,100.0,89.0,5.0,70.0,8.0
+"pb and banana whey protein smoothie, medium",630.0,624.0,23.0,7.0,100.0,290.0,70.0,3.0,53.0,38.0
+"pb and banana pea protein smoothie, medium",570.0,624.0,24.0,6.0,20.0,480.0,58.0,5.0,42.0,37.0
+"whey protein berry workout smoothie, medium",390.0,624.0,1.5,0.5,40.0,150.0,62.0,5.0,56.0,21.0
+"pea protein berry workout smoothie, medium",420.0,624.0,1.5,0.0,0.0,260.0,80.0,5.0,64.0,16.0
+"pb chocolate love smoothie, medium",580.0,624.0,24.0,6.0,20.0,270.0,86.0,8.0,62.0,17.0
+"orange c-booster smoothie, medium",330.0,624.0,2.0,0.5,0.0,25.0,76.0,3.0,62.0,3.0
+"lotta horchata smoothie, medium",280.0,624.0,2.5,0.0,0.0,200.0,57.0,2.0,47.0,6.0
+"la vida mocha smoothie, medium",420.0,624.0,2.5,1.5,5.0,200.0,90.0,1.0,79.0,12.0
+"acai super-antioxidant smoothie, small",340.0,454.0,4.0,1.0,0.0,80.0,69.0,4.0,54.0,6.0
+"pb and banana whey protein smoothie, small",540.0,454.0,22.0,6.0,95.0,260.0,51.0,2.0,38.0,36.0
+"pb and banana pea protein smoothie, small",500.0,454.0,22.0,5.0,15.0,450.0,44.0,5.0,31.0,35.0
+"whey protein berry workout smoothie, small",300.0,454.0,1.0,0.0,40.0,115.0,52.0,3.0,41.0,19.0
+"pea protein berry workout smoothie, small",330.0,454.0,1.5,0.0,0.0,230.0,60.0,3.0,48.0,14.0
+"pb chocolate love smoothie, small",400.0,454.0,14.0,4.5,15.0,180.0,64.0,4.0,47.0,12.0
+"orange c-booster smoothie, small",240.0,454.0,1.0,0.0,0.0,20.0,56.0,2.0,46.0,3.0
+"lotta horchata smoothie, small",190.0,454.0,2.5,0.0,0.0,140.0,38.0,2.0,31.0,4.0
+"la vida mocha smoothie, small",270.0,454.0,2.0,1.0,5.0,135.0,58.0,1.0,51.0,8.0
+"purely orange juice, large",390.0,794.0,1.5,0.0,0.0,10.0,90.0,2.0,73.0,6.0
+"purely carrot juice, large",340.0,794.0,2.0,0.0,0.0,570.0,79.0,23.0,39.0,8.0
+"orange carrot twist juice, large",360.0,794.0,2.0,0.0,0.0,290.0,85.0,12.0,56.0,7.0
+"purely orange juice, medium",310.0,624.0,1.5,0.0,0.0,5.0,71.0,1.0,57.0,5.0
+"purely carrot juice, medium",270.0,624.0,1.5,0.0,0.0,450.0,62.0,18.0,31.0,6.0
+"orange carrot twist juice, medium",290.0,624.0,1.5,0.0,0.0,230.0,67.0,10.0,44.0,5.0
+"purely orange juice, small",220.0,454.0,1.0,0.0,0.0,0.0,52.0,1.0,42.0,3.0
+"purely carrot juice, small",190.0,454.0,1.0,0.0,0.0,330.0,45.0,13.0,22.0,4.0
+"orange carrot twist juice, small",210.0,454.0,1.0,0.0,0.0,170.0,48.0,7.0,32.0,4.0
+"mango-a-go-go smoothie, large",510.0,794.0,2.0,1.0,0.0,60.0,123.0,4.0,110.0,2.0
+"caribbean passion smoothie, large",420.0,794.0,2.0,1.0,0.0,55.0,102.0,4.0,89.0,3.0
+"razzmatazz smoothie, large",460.0,794.0,2.0,1.0,0.0,55.0,112.0,4.0,97.0,2.0
+"strawberry surf rider smoothie, large",420.0,794.0,2.0,1.0,10.0,25.0,102.0,3.0,92.0,1.0
+"aloha pineapple smoothie, large",510.0,794.0,2.0,1.0,0.0,65.0,115.0,4.0,10.0,8.0
+"strawberries wild smoothie, large",430.0,794.0,0.5,0.0,0.0,95.0,103.0,4.0,85.0,6.0
+"white gummi smoothie, large",590.0,794.0,4.0,2.0,5.0,120.0,135.0,1.0,122.0,4.0
+"orange dream smoothie, large",550.0,794.0,2.5,1.0,0.0,160.0,120.0,0.0,111.0,9.0
+"peanut butter moo'd smoothie, large",910.0,794.0,28.0,5.0,5.0,420.0,144.0,7.0,119.0,29.0
+"matcha green tea blast smoothie, large",500.0,794.0,0.0,0.0,0.0,240.0,105.0,1.0,95.0,14.0
+"apple 'n greens smoothie, large",400.0,794.0,1.5,0.0,0.0,70.0,96.0,8.0,74.0,7.0
+"vanilla blue sky smoothie, large",360.0,794.0,7.0,4.0,0.0,150.0,77.0,8.0,48.0,4.0
+"greens 'n ginger, large",380.0,794.0,1.5,0.0,0.0,40.0,91.0,7.0,77.0,6.0
+"mega mango smoothie, large",350.0,794.0,1.0,0.0,0.0,15.0,85.0,6.0,76.0,4.0
+"peach perfection smoothie, large",360.0,794.0,1.0,0.0,0.0,40.0,88.0,5.0,76.0,3.0
+"pomegranate paradise smoothie, large",380.0,794.0,1.0,0.0,0.0,25.0,93.0,5.0,80.0,3.0
+"smooth talkin' mango smoothie, large",440.0,794.0,9.0,1.0,0.0,180.0,88.0,9.0,62.0,7.0
+"strawberry whirl smoothie, large",350.0,794.0,1.0,0.0,0.0,25.0,87.0,7.0,65.0,3.0
+"mango-a-go-go smoothie, medium",400.0,624.0,1.5,0.5,0.0,45.0,97.0,3.0,87.0,2.0
+"caribbean passion smoothie, medium",340.0,624.0,1.5,0.5,0.0,45.0,82.0,3.0,72.0,2.0
+"razzmatazz smoothie, medium",360.0,624.0,1.5,0.5,0.0,40.0,87.0,3.0,74.0,1.0
+"strawberry surf rider smoothie, medium",340.0,624.0,2.0,0.5,5.0,25.0,84.0,3.0,75.0,1.0
+"aloha pineapple smoothie, medium",400.0,624.0,2.0,0.5,0.0,55.0,89.0,4.0,77.0,7.0
+"strawberries wild smoothie, medium",340.0,624.0,0.0,0.0,0.0,75.0,81.0,3.0,67.0,5.0
+"white gummi smoothie, medium",450.0,624.0,3.0,1.5,5.0,85.0,105.0,1.0,94.0,2.0
+"orange dream smoothie, medium",440.0,624.0,2.0,1.0,0.0,125.0,97.0,0.0,89.0,7.0
+"peanut butter moo'd smoothie, medium",720.0,624.0,19.0,4.0,5.0,330.0,120.0,5.0,101.0,22.0
+"matcha green tea blast smoothie, medium",410.0,624.0,0.0,0.0,0.0,200.0,87.0,1.0,79.0,12.0
+"apple 'n greens smoothie, medium",320.0,624.0,1.0,0.0,0.0,55.0,76.0,6.0,58.0,6.0
+"vanilla blue sky smoothie, medium",280.0,624.0,5.0,3.0,0.0,110.0,61.0,7.0,37.0,3.0
+"greens 'n ginger smoothie, medium",290.0,624.0,1.0,0.0,0.0,30.0,70.0,5.0,60.0,4.0
+"mega mango smoothie, medium",310.0,624.0,1.0,0.0,0.0,15.0,74.0,5.0,67.0,3.0
+"peach perfection smoothie, medium",310.0,624.0,0.5,0.0,0.0,35.0,76.0,4.0,66.0,3.0
+"pomegranate paradise smoothie, medium",320.0,624.0,0.5,0.0,0.0,25.0,80.0,5.0,69.0,2.0
+"smooth talkin' mango smoothie, medium",370.0,624.0,8.0,1.0,0.0,150.0,73.0,8.0,52.0,6.0
+"strawberry whirl smoothie, medium",300.0,624.0,1.0,0.0,0.0,20.0,75.0,6.0,55.0,3.0
+"mango-a-go-go smoothie, small",300.0,454.0,1.0,0.5,0.0,35.0,73.0,2.0,65.0,1.0
+"caribbean passion smoothie, small",260.0,454.0,1.0,0.0,0.0,35.0,63.0,2.0,55.0,2.0
+"razzmatazz smoothie, small",270.0,454.0,1.0,0.0,0.0,30.0,65.0,2.0,56.0,1.0
+"strawberry surf rider smoothie, small",250.0,454.0,1.5,0.0,5.0,15.0,60.0,2.0,54.0,1.0
+"aloha pineapple smoothie, small",310.0,454.0,1.5,0.5,0.0,45.0,67.0,3.0,59.0,7.0
+"strawberries wild smoothie, small",240.0,454.0,0.0,0.0,0.0,50.0,57.0,2.0,47.0,3.0
+"white gummi smoothie, small",320.0,454.0,2.0,1.0,0.0,65.0,74.0,1.0,67.0,2.0
+"orange dream smoothie, small",310.0,454.0,1.5,0.5,0.0,95.0,68.0,0.0,63.0,5.0
+"peanut butter moo'd smoothie, small",430.0,454.0,10.0,2.0,5.0,190.0,75.0,3.0,63.0,13.0
+"matcha green tea blast smoothie, small",270.0,454.0,0.0,0.0,0.0,130.0,56.0,1.0,51.0,8.0
+"apple 'n greens smoothie, small",250.0,454.0,1.0,0.0,0.0,50.0,58.0,5.0,44.0,5.0
+"vanilla blue sky smoothie, small",210.0,454.0,4.5,2.5,0.0,90.0,43.0,5.0,27.0,2.0
+"greens 'n ginger smoothie, small",230.0,454.0,1.0,0.0,0.0,25.0,56.0,4.0,48.0,4.0
+"mega mango smoothie, small",210.0,454.0,0.5,0.0,0.0,10.0,50.0,3.0,45.0,2.0
+"peach perfection smoothie, small",210.0,454.0,0.0,0.0,0.0,25.0,51.0,3.0,44.0,2.0
+"pomegranate paradise smoothie, small",220.0,454.0,0.5,0.0,0.0,15.0,54.0,3.0,46.0,2.0
+"smooth talkin' mango smoothie, small",250.0,454.0,0.5,0.5,0.0,100.0,50.0,5.0,36.0,4.0
+"strawberry whirl smoothie, small",210.0,454.0,0.5,0.0,0.0,15.0,51.0,4.0,38.0,2.0
+blueberry strawberry blast-off,190.0,283.0,0.0,0.0,0.0,15.0,46.0,3.0,37.0,1.0
+strawberries gone bananas,150.0,283.0,0.0,0.0,0.0,20.0,36.0,3.0,27.0,1.0
+spinach 'n cheese breakfast wrap,240.0,151.0,7.0,3.0,15.0,590.0,30.0,3.0,1.0,15.0
+"roasted tomato, spinach & feta breakfast sandwich",240.0,127.0,8.0,3.0,15.0,550.0,30.0,4.0,2.0,11.0
+apple cinnamon pretzel,390.0,141.0,4.5,0.0,0.0,290.0,78.0,3.0,15.0,9.0
+sweet belgian waffle,310.0,70.0,15.0,8.0,25.0,290.0,39.0,1.0,19.0,5.0
+cheddar tomato twist,250.0,91.0,5.0,2.0,10.0,430.0,41.0,2.0,3.0,9.0
+sourdough parmesan pretzel,420.0,141.0,11.0,3.0,15.0,690.0,69.0,3.0,3.0,12.0
+The Breakfast Burger,298.0,830.0,400.0,44.0,245.0,1590.0,67.0,4.0,13.0,42.0
+Grilled Cheese Breakfast Sandwich- Ham,275.0,690.0,250.0,28.0,245.0,2060.0,77.0,3.0,6.0,40.0
+Grilled Cheese Breakfast Sandwich- Sausage,283.0,840.0,400.0,45.0,260.0,1920.0,77.0,3.0,5.0,41.0
+Grilled Cheese Breakfast Sandwich- Bacon,261.0,740.0,300.0,33.0,250.0,1910.0,77.0,3.0,5.0,42.0
+Sausage Egg & Cheese Biscuit,197.0,710.0,450.0,50.0,265.0,1840.0,44.0,0.0,4.0,20.0
+Bacon Egg & Cheese Biscuit,170.0,590.0,333.0,37.0,255.0,1740.0,44.0,0.0,4.0,20.0
+Monster Biscuit®,238.0,850.0,549.0,61.0,365.0,2380.0,46.0,0.0,5.0,31.0
+Biscuit 'N' Gravy™,235.0,500.0,243.0,27.0,10.0,1780.0,53.0,0.0,4.0,8.0
+Steak and Egg Burrito,293.0,600.0,290.0,33.0,390.0,1570.0,37.0,2.0,3.0,35.0
+Loaded Breakfast Burrito,301.0,760.0,430.0,48.0,370.0,1330.0,46.0,3.0,2.0,33.0
+Big Country® Breakfast Burrito,259.0,660.0,360.0,40.0,345.0,1140.0,45.0,2.0,1.0,26.0
+"Bacon, Egg, and Cheese Burrito",211.0,580.0,310.0,35.0,365.0,1040.0,32.0,1.0,1.0,31.0
+French Toast Dips®,142.0,500.0,170.0,19.0,0.0,620.0,74.0,3.0,13.0,9.0
+Hash Rounds® Small,78.0,250.0,150.0,17.0,0.0,320.0,23.0,2.0,0.0,2.0
+Famous Star® with Cheese,259.0,670.0,330.0,37.0,75.0,1270.0,57.0,3.0,12.0,28.0
+Beyond Famous Star® with Cheese,326.0,770.0,396.0,44.0,30.0,1600.0,61.0,2.0,12.0,33.0
+Super Star® with Cheese,390.0,920.0,510.0,56.0,140.0,1540.0,59.0,4.0,13.0,48.0
+Western Bacon Cheeseburger®,254.0,760.0,320.0,35.0,85.0,1700.0,74.0,4.0,16.0,38.0
+Beyond® BBQ Cheeseburger- Double,409.0,1150.0,560.0,63.0,35.0,2480.0,87.0,9.0,17.0,60.0
+Beyond® BBQ Cheeseburger- Single,280.0,790.0,330.0,37.0,15.0,1750.0,81.0,6.0,16.0,35.0
+Spicy Western Bacon Cheeseburger®,310.0,920.0,450.0,50.0,135.0,2010.0,71.0,4.0,17.0,47.0
+Spicy Beyond BBQ Cheeseburger,296.0,800.0,324.0,36.0,15.0,1890.0,84.0,2.0,17.0,34.0
+Double Spicy Beyond BBQ Cheeseburger,415.0,1130.0,540.0,60.0,30.0,2510.0,90.0,4.0,18.0,56.0
+Double Western Bacon Cheeseburger®,336.0,1020.0,490.0,54.0,150.0,2020.0,75.0,4.0,16.0,57.0
+Spicy Double Western Bacon Cheeseburger®,456.0,1400.0,780.0,87.0,270.0,2960.0,75.0,5.0,20.0,80.0
+Triple Western Bacon Cheeseburger®,438.0,1380.0,730.0,81.0,240.0,2750.0,80.0,4.0,17.0,85.0
+Spicy Triple Western Bacon Cheeseburger®,438.0,1380.0,730.0,81.0,240.0,2750.0,80.0,4.0,17.0,85.0
+The Big Carl®,321.0,920.0,520.0,58.0,140.0,1380.0,56.0,3.0,12.0,47.0
+The 1/3lb. Original Thickburger®,310.0,820.0,460.0,51.0,125.0,1440.0,56.0,4.0,14.0,39.0
+The 1/3lb. Guacamole Bacon Thickburger®,376.0,960.0,580.0,64.0,120.0,1820.0,50.0,3.0,11.0,38.0
+The 1/3lb. Jalapeño Thickburger®,323.0,830.0,480.0,54.0,130.0,1450.0,53.0,4.0,4.0,35.0
+2/3 lb. Monster Angus Thickburger®,382.0,1290.0,800.0,89.0,265.0,3120.0,53.0,2.0,10.0,76.0
+Big Hamburger,203.0,480.0,160.0,18.0,50.0,870.0,56.0,3.0,13.0,25.0
+Big Hamburger w/ Cheese,219.0,540.0,200.0,22.0,65.0,1150.0,56.0,3.0,13.0,28.0
+California Classic Double Cheeseburger,231.0,560.0,350.0,39.0,80.0,990.0,38.0,2.0,8.0,21.0
+3 Piece - Hand-Breaded Chicken Tenders™,128.0,260.0,110.0,13.0,70.0,770.0,13.0,2.0,0.0,25.0
+5 Piece - Hand-Breaded Chicken Tenders™,213.0,440.0,190.0,21.0,115.0,1290.0,21.0,3.0,0.0,41.0
+6 Piece - Chicken Stars™,91.0,270.0,140.0,15.0,50.0,480.0,19.0,3.0,0.0,14.0
+9 Piece- Chicken Stars™,137.0,410.0,210.0,23.0,75.0,710.0,29.0,5.0,0.0,21.0
+The Big Chicken Fillet Sandwich,290.0,680.0,320.0,36.0,80.0,1430.0,56.0,2.0,8.0,33.0
+The Bacon Swiss Crispy Chicken Fillet Sandwich,328.0,810.0,400.0,45.0,110.0,2120.0,58.0,3.0,10.0,44.0
+Charbroiled Chicken Club™ Sandwich,272.0,600.0,240.0,27.0,150.0,1720.0,46.0,1.0,12.0,44.0
+Charbroiled Santa Fe Chicken™ Sandwich,255.0,550.0,230.0,25.0,135.0,1540.0,45.0,1.0,10.0,36.0
+Charbroiled BBQ Chicken™ Sandwich,238.0,370.0,50.0,5.0,110.0,1210.0,49.0,1.0,14.0,33.0
+Charbroiled Chicken Salad,306.0,280.0,80.0,9.0,120.0,960.0,19.0,2.0,6.0,33.0
+Spicy Chicken Sandwich,177.0,490.0,260.0,29.0,40.0,1320.0,43.0,4.0,4.0,14.0
+Crisscut® Fries,128.0,410.0,240.0,26.0,0.0,830.0,39.0,4.0,0.0,5.0
+Fried Zucchini,122.0,330.0,180.0,20.0,0.0,720.0,34.0,7.0,2.0,4.0
+Onion Rings,106.0,520.0,250.0,28.0,0.0,590.0,61.0,3.0,6.0,8.0
+6 piece - Jalapeno Poppers®,154.0,470.0,260.0,29.0,35.0,1330.0,42.0,3.0,6.0,9.0
+9 piece - Jalapeno Poppers®,216.0,650.0,340.0,38.0,45.0,1890.0,62.0,4.0,7.0,13.0
+Natural-Cut French Fries- Small,104.0,300.0,130.0,15.0,0.0,600.0,39.0,4.0,0.0,3.0
+Natural-Cut French Fries- Medium,147.0,420.0,190.0,21.0,0.0,850.0,55.0,5.0,0.0,5.0
+Natural-Cut French Fries- Large,158.0,460.0,200.0,22.0,0.0,920.0,59.0,6.0,0.0,5.0
+Side Salad,193.0,140.0,60.0,7.0,10.0,240.0,15.0,2.0,2.0,6.0
+Hand-Scooped Ice-Cream Shakes™- Vanilla Shake,397.0,700.0,320.0,35.0,105.0,240.0,86.0,0.0,65.0,12.0
+Hand-Scooped Ice-Cream Shakes™- Chocolate Shake,397.0,690.0,320.0,36.0,105.0,300.0,84.0,1.0,59.0,12.0
+Hand-Scooped Ice-Cream Shakes™- Strawberry Shake,397.0,690.0,320.0,35.0,105.0,250.0,83.0,0.0,64.0,12.0
+Hand-Scooped Ice-Cream Shakes™- OREO ® Cookie Shake,397.0,710.0,350.0,39.0,105.0,340.0,79.0,1.0,53.0,13.0
+"Cheese Only, 12"" Medium Pan Pizza (1 slice = 1/8 pizza)",91.0,240.0,90.0,10.0,25.0,530.0,27.0,1.0,2.0,11.0
+"Pepperoni, 12"" Medium Pan Pizza (1 slice = 1/8 pizza)",90.0,250.0,110.0,12.0,25.0,590.0,26.0,1.0,2.0,11.0
+"Supreme, 12"" Medium Pan Pizza (1 slice = 1/8 pizza)",112.0,290.0,130.0,14.0,30.0,650.0,27.0,2.0,2.0,12.0
+"Pepperoni & Mushroom, 12"" Medium Pan Pizza (1 slice = 1/8 pizza)",97.0,240.0,90.0,10.0,20.0,520.0,27.0,1.0,2.0,10.0
+"Italian Sausage & Red Onion, 12"" Medium Pan Pizza (1 slice = 1/8 pizza)",106.0,270.0,110.0,13.0,25.0,560.0,28.0,1.0,3.0,11.0
+"Ham & Pineapple, 12"" Medium Pan Pizza (1 slice = 1/8 pizza)",97.0,230.0,80.0,9.0,20.0,520.0,28.0,1.0,3.0,10.0
+"Veggie Lover's®, 12"" Medium Pan Pizza (1 slice = 1/8 pizza)",107.0,230.0,80.0,9.0,15.0,500.0,28.0,2.0,3.0,9.0
+"Meat Lover's®, 12"" Medium Pan Pizza (1 slice = 1/8 pizza)",113.0,330.0,160.0,18.0,40.0,830.0,27.0,1.0,2.0,14.0
+"Pepperoni Lover's®, 12"" Medium Pan Pizza (1 slice = 1/8 pizza)",101.0,290.0,130.0,14.0,35.0,730.0,27.0,1.0,2.0,13.0
+"Hawaiian Luau, 12"" Medium Pan Pizza (1 slice = 1/8 pizza)",104.0,260.0,100.0,12.0,25.0,610.0,28.0,1.0,3.0,11.0
+"Dan's Original, 12"" Medium Pan Pizza (1 slice = 1/8 pizza)",110.0,280.0,130.0,14.0,30.0,630.0,27.0,1.0,2.0,12.0
+"Triple Meat Italiano, 12"" Medium Pan Pizza (1 slice = 1/8 pizza)",103.0,290.0,130.0,15.0,30.0,700.0,27.0,1.0,2.0,13.0
+"Spicy Sicilian, 12"" Medium Pan Pizza (1 slice = 1/8 pizza)",106.0,270.0,120.0,13.0,25.0,700.0,27.0,2.0,2.0,11.0
+"Ultimate Cheese Lover's, 12"" Medium Pan Pizza (1 slice = 1/8 pizza)",92.0,270.0,120.0,13.0,25.0,580.0,26.0,1.0,2.0,12.0
+"Cheese Only, 12"" Medium Thin 'N Crispy® Pizza ( 1 slice = 1/8 pizza)",65.0,190.0,70.0,8.0,25.0,550.0,22.0,1.0,4.0,9.0
+"Pepperoni, 12"" Medium Thin 'N Crispy® Pizza ( 1 slice = 1/8 pizza)",63.0,200.0,80.0,9.0,25.0,610.0,21.0,1.0,4.0,9.0
+"Supreme, 12"" Medium Thin 'N Crispy® Pizza ( 1 slice = 1/8 pizza)",88.0,240.0,110.0,12.0,30.0,670.0,23.0,1.0,4.0,10.0
+"Pepperoni & Mushroom, 12"" Medium Thin 'N Crispy® Pizza ( 1 slice = 1/8 pizza)",73.0,180.0,70.0,8.0,20.0,540.0,22.0,1.0,4.0,9.0
+"Italian Sausage & Red Onion, 12"" Medium Thin 'N Crispy® Pizza ( 1 slice = 1/8 pizza)",81.0,220.0,90.0,10.0,25.0,580.0,23.0,1.0,4.0,9.0
+"Ham & Pineapple, 12"" Medium Thin 'N Crispy® Pizza ( 1 slice = 1/8 pizza)",73.0,180.0,60.0,6.0,20.0,540.0,23.0,1.0,5.0,8.0
+"Veggie Lover's®, 12"" Medium Thin 'N Crispy® Pizza ( 1 slice = 1/8 pizza)",86.0,180.0,60.0,6.0,15.0,530.0,23.0,1.0,4.0,8.0
+"Meat Lover's®, 12"" Medium Thin 'N Crispy® Pizza ( 1 slice = 1/8 pizza)",85.0,280.0,140.0,16.0,40.0,860.0,22.0,1.0,4.0,13.0
+"Pepperoni Lover's®, 12"" Medium Thin 'N Crispy® Pizza ( 1 slice = 1/8 pizza)",75.0,250.0,110.0,13.0,35.0,760.0,22.0,1.0,4.0,12.0
+"Hawaiian Luau, 12"" Medium Thin 'N Crispy® Pizza ( 1 slice = 1/8 pizza)",81.0,220.0,90.0,10.0,25.0,650.0,24.0,1.0,5.0,10.0
+"Dan's Original, 12"" Medium Thin 'N Crispy® Pizza ( 1 slice = 1/8 pizza)",85.0,240.0,110.0,12.0,30.0,650.0,22.0,1.0,4.0,11.0
+"Triple Meat Italiano, 12"" Medium Thin 'N Crispy® Pizza ( 1 slice = 1/8 pizza)",76.0,240.0,110.0,12.0,30.0,720.0,22.0,1.0,4.0,11.0
+"Spicy Sicilian, 12"" Medium Thin 'N Crispy® Pizza ( 1 slice = 1/8 pizza)",81.0,220.0,90.0,10.0,25.0,750.0,22.0,1.0,4.0,9.0
+"Ultimate Cheese Lover's, 12"" Medium Thin 'N Crispy® Pizza ( 1 slice = 1/8 pizza)",65.0,220.0,100.0,11.0,25.0,600.0,21.0,1.0,4.0,10.0
+"Cheese Only, 12"" Medium Hand-Tossed Style Pizza (1 slice = 1/8 pizza)",84.0,220.0,70.0,8.0,25.0,550.0,26.0,1.0,4.0,10.0
+"Pepperoni, 12"" Medium Hand-Tossed Style Pizza (1 slice = 1/8 pizza)",83.0,230.0,80.0,9.0,25.0,610.0,25.0,1.0,3.0,10.0
+"Supreme, 12"" Medium Hand-Tossed Style Pizza (1 slice = 1/8 pizza)",106.0,260.0,110.0,12.0,30.0,680.0,26.0,1.0,4.0,12.0
+"Pepperoni & Mushroom, 12"" Medium Hand-Tossed Style Pizza (1 slice = 1/8 pizza)",91.0,210.0,70.0,8.0,20.0,540.0,26.0,1.0,4.0,10.0
+"Italian Sausage & Red Onion, 12"" Medium Hand-Tossed Style Pizza (1 slice = 1/8 pizza)",99.0,240.0,90.0,10.0,25.0,580.0,27.0,1.0,4.0,11.0
+"Ham & Pineapple, 12"" Medium Hand-Tossed Style Pizza (1 slice = 1/8 pizza)",91.0,200.0,60.0,6.0,20.0,550.0,27.0,1.0,5.0,9.0
+"Veggie Lover's®, 12"" Medium Hand-Tossed Style Pizza (1 slice = 1/8 pizza)",102.0,200.0,60.0,6.0,15.0,530.0,27.0,2.0,4.0,9.0
+"Meat Lover's®, 12"" Medium Hand-Tossed Style Pizza (1 slice = 1/8 pizza)",105.0,300.0,140.0,16.0,40.0,860.0,26.0,1.0,4.0,14.0
+"Pepperoni Lover's®, 12"" Medium Hand-Tossed Style Pizza (1 slice = 1/8 pizza)",95.0,270.0,120.0,13.0,35.0,770.0,26.0,1.0,4.0,13.0
+"Hawaiian Luau, 12"" Medium Hand-Tossed Style Pizza (1 slice = 1/8 pizza)",98.0,240.0,80.0,9.0,25.0,640.0,27.0,1.0,5.0,11.0
+"Dan's Original, 12"" Medium Hand-Tossed Style Pizza (1 slice = 1/8 pizza)",103.0,260.0,110.0,12.0,30.0,650.0,26.0,1.0,4.0,12.0
+"Triple Meat Italiano, 12"" Medium Hand-Tossed Style Pizza (1 slice = 1/8 pizza)",96.0,260.0,110.0,12.0,30.0,730.0,26.0,1.0,4.0,12.0
+"Spicy Sicilian, 12"" Medium Hand-Tossed Style Pizza (1 slice = 1/8 pizza)",99.0,240.0,100.0,11.0,25.0,730.0,26.0,1.0,4.0,11.0
+"Ultimate Cheese Lover's, 12"" Medium Hand-Tossed Style Pizza (1 slice = 1/8 pizza)",82.0,240.0,100.0,11.0,30.0,590.0,25.0,1.0,3.0,11.0
+"Cheese Only Garlic Parmesan, 12"" Medium Hand-Tossed Style Pizza (1 slice = 1/8 pizza)",85.0,220.0,70.0,8.0,25.0,580.0,26.0,1.0,4.0,10.0
+"Pepperoni Garlic Parmesan, 12"" Medium Hand-Tossed Style Pizza (1 slice = 1/8 pizza)",83.0,230.0,80.0,9.0,25.0,640.0,26.0,1.0,4.0,10.0
+"Supreme Garlic Parmesan, 12"" Medium Hand-Tossed Style Pizza (1 slice = 1/8 pizza)",107.0,260.0,110.0,12.0,30.0,700.0,27.0,1.0,4.0,12.0
+"Pepperoni & Mushroom Garlic Parmesan, 12"" Medium Hand-Tossed Style Pizza (1 slice = 1/8 pizza)",92.0,210.0,70.0,8.0,20.0,570.0,26.0,1.0,4.0,10.0
+"Italian Sausage & Red Onion Garlic Parmesan, 12"" Medium Hand-Tossed Style Pizza (1 slice = 1/8 pizza)",100.0,250.0,90.0,10.0,25.0,610.0,28.0,1.0,4.0,11.0
+"Ham & Pineapple Garlic Parmesan, 12"" Medium Hand-Tossed Style Pizza (1 slice = 1/8 pizza)",92.0,210.0,60.0,6.0,20.0,570.0,28.0,1.0,5.0,9.0
+"Veggie Lover's® Garlic Parmesan, 12"" Medium Hand-Tossed Style Pizza (1 slice = 1/8 pizza)",103.0,200.0,60.0,7.0,15.0,550.0,27.0,2.0,4.0,9.0
+"Meat Lover's® Garlic Parmesan, 12"" Medium Hand-Tossed Style Pizza (1 slice = 1/8 pizza)",106.0,310.0,140.0,16.0,40.0,890.0,26.0,1.0,4.0,14.0
+"Pepperoni Lover's® Garlic Parmesan, 12"" Medium Hand-Tossed Style Pizza (1 slice = 1/8 pizza)",96.0,280.0,120.0,13.0,35.0,790.0,27.0,1.0,4.0,13.0
+"Hawaiian Luau Garlic Parmesan, 12"" Medium Hand-Tossed Style Pizza (1 slice = 1/8 pizza)",99.0,240.0,90.0,9.0,25.0,670.0,28.0,1.0,5.0,11.0
+"Dan's Original Garlic Parmesan, 12"" Medium Hand-Tossed Style Pizza (1 slice = 1/8 pizza)",104.0,260.0,110.0,12.0,30.0,680.0,27.0,1.0,4.0,12.0
+"Triple Meat Italiano Garlic Parmesan, 12"" Medium Hand-Tossed Style Pizza (1 slice = 1/8 pizza)",96.0,260.0,110.0,12.0,30.0,750.0,26.0,1.0,4.0,12.0
+"Spicy Sicilian Garlic Parmesan, 12"" Medium Hand-Tossed Style Pizza (1 slice = 1/8 pizza)",100.0,250.0,100.0,11.0,25.0,760.0,27.0,2.0,4.0,11.0
+"Ultimate Cheese Lover's Garlic Parmesan, 12"" Medium Hand-Tossed Style Pizza (1 slice = 1/8 pizza)",83.0,250.0,100.0,11.0,30.0,620.0,26.0,1.0,3.0,11.0
+"Chicken, Red Onion & Green Pepper, 12"" Fit 'n Delicious® Pizza (1 slice = 1/8 pizza)",95.0,180.0,40.0,4.5,20.0,510.0,23.0,1.0,5.0,11.0
+"Chicken, Mushrooms & Jalapeño, 12"" Fit 'n Delicious® Pizza (1 slice = 1/8 pizza)",93.0,170.0,40.0,4.5,20.0,720.0,22.0,1.0,4.0,11.0
+"Ham, Red Onion & Mushroom, 12"" Fit 'n Delicious® Pizza (1 slice = 1/8 pizza)",84.0,160.0,40.0,4.5,15.0,550.0,23.0,1.0,4.0,8.0
+"Ham, Pineapple & Diced Red Tomato, 12"" Fit 'n Delicious® Pizza (1 slice = 1/8 pizza)",84.0,160.0,40.0,4.5,15.0,550.0,24.0,1.0,6.0,7.0
+"Green Pepper, Red Onion & Diced Red Tomato, 12"" Fit 'n Delicious® Pizza (1 slice = 1/8 pizza)",89.0,150.0,35.0,4.0,10.0,400.0,24.0,2.0,5.0,6.0
+"Diced Red Tomato, Mushroom & Jalapeño, 12"" Fit 'n Delicious® Pizza (1 slice = 1/8 pizza)",87.0,150.0,35.0,4.0,10.0,610.0,23.0,2.0,4.0,6.0
+"Cheese Only, 14"" Large Pan Pizza (1 slice = 1/8 pizza)",129.0,360.0,150.0,17.0,35.0,740.0,37.0,2.0,3.0,15.0
+"Pepperoni, 14"" Large Pan Pizza (1 slice = 1/8 pizza)",128.0,380.0,170.0,19.0,35.0,840.0,36.0,2.0,3.0,15.0
+"Supreme, 14"" Large Pan Pizza (1 slice = 1/8 pizza)",158.0,420.0,200.0,23.0,45.0,920.0,38.0,2.0,3.0,17.0
+"Pepperoni & Mushroom, 14"" Large Pan Pizza (1 slice = 1/8 pizza)",136.0,350.0,150.0,17.0,30.0,730.0,37.0,2.0,3.0,14.0
+"Italian Sausage & Red Onion, 14"" Large Pan Pizza (1 slice = 1/8 pizza)",148.0,390.0,180.0,20.0,35.0,770.0,38.0,2.0,3.0,15.0
+"Ham & Pineapple, 14"" Large Pan Pizza (1 slice = 1/8 pizza)",137.0,340.0,130.0,15.0,25.0,740.0,39.0,2.0,4.0,14.0
+"Veggie Lover's®, 14"" Large Pan Pizza (1 slice = 1/8 pizza)",149.0,330.0,130.0,15.0,20.0,690.0,38.0,2.0,4.0,13.0
+"Meat Lover's®, 14"" Large Pan Pizza (1 slice = 1/8 pizza)",160.0,480.0,250.0,28.0,60.0,1180.0,37.0,2.0,3.0,20.0
+"Pepperoni Lover's®, 14"" Large Pan Pizza (1 slice = 1/8 pizza)",145.0,430.0,200.0,23.0,55.0,1070.0,37.0,2.0,3.0,20.0
+"Hawaiian Luau, 14"" Large Pan Pizza (1 slice = 1/8 pizza)",145.0,380.0,160.0,18.0,35.0,860.0,39.0,2.0,4.0,15.0
+"Dan's Original, 14"" Large Pan Pizza (1 slice = 1/8 pizza)",154.0,420.0,200.0,22.0,40.0,880.0,37.0,2.0,3.0,17.0
+"Triple Meat Italiano, 14"" Large Pan Pizza (1 slice = 1/8 pizza)",146.0,420.0,200.0,23.0,45.0,1000.0,37.0,2.0,3.0,18.0
+"Spicy Sicilian, 14"" Large Pan Pizza (1 slice = 1/8 pizza)",148.0,400.0,180.0,21.0,35.0,960.0,38.0,2.0,3.0,16.0
+"Ultimate Cheese Lover's, 14"" Large Pan Pizza (1 slice = 1/8 pizza)",129.0,400.0,190.0,21.0,40.0,800.0,36.0,2.0,3.0,16.0
+"Cheese Only, 14"" Large Thin 'N Crispy® Pizza (1 slice = 1/8 pizza)",88.0,260.0,100.0,11.0,35.0,740.0,29.0,1.0,5.0,12.0
+"Pepperoni, 14"" Large Thin 'N Crispy® Pizza (1 slice = 1/8 pizza)",86.0,280.0,120.0,13.0,35.0,850.0,28.0,1.0,5.0,13.0
+"Supreme, 14"" Large Thin 'N Crispy® Pizza (1 slice = 1/8 pizza)",120.0,330.0,150.0,17.0,45.0,930.0,30.0,2.0,5.0,15.0
+"Pepperoni & Mushroom, 14"" Large Thin 'N Crispy® Pizza (1 slice = 1/8 pizza)",99.0,260.0,100.0,11.0,30.0,740.0,29.0,1.0,5.0,12.0
+"Italian Sausage & Red Onion, 14"" Large Thin 'N Crispy® Pizza (1 slice = 1/8 pizza)",110.0,300.0,120.0,14.0,35.0,780.0,30.0,1.0,6.0,13.0
+"Ham & Pineapple, 14"" Large Thin 'N Crispy® Pizza (1 slice = 1/8 pizza)",100.0,240.0,80.0,9.0,25.0,750.0,31.0,1.0,7.0,11.0
+"Veggie Lover's®, 14"" Large Thin 'N Crispy® Pizza (1 slice = 1/8 pizza)",117.0,240.0,80.0,9.0,20.0,710.0,30.0,2.0,6.0,10.0
+"Meat Lover's®, 14"" Large Thin 'N Crispy® Pizza (1 slice = 1/8 pizza)",117.0,390.0,200.0,23.0,60.0,1210.0,28.0,1.0,5.0,18.0
+"Pepperoni Lover's®, 14"" Large Thin 'N Crispy® Pizza (1 slice = 1/8 pizza)",104.0,350.0,170.0,18.0,55.0,1080.0,29.0,1.0,5.0,17.0
+"Hawaiian Luau, 14"" Large Thin 'N Crispy® Pizza (1 slice = 1/8 pizza)",110.0,300.0,120.0,14.0,35.0,900.0,31.0,1.0,7.0,13.0
+"Dan's Original, 14"" Large Thin 'N Crispy® Pizza (1 slice = 1/8 pizza)",115.0,320.0,150.0,16.0,40.0,890.0,29.0,1.0,5.0,15.0
+"Triple Meat Italiano, 14"" Large Thin 'N Crispy® Pizza (1 slice = 1/8 pizza)",103.0,320.0,150.0,17.0,45.0,1000.0,28.0,1.0,5.0,15.0
+"Spicy Sicilian, 14"" Large Thin 'N Crispy® Pizza (1 slice = 1/8 pizza)",110.0,300.0,130.0,15.0,35.0,1020.0,30.0,2.0,5.0,13.0
+"Ultimate Cheese Lover's, 14"" Large Thin 'N Crispy® Pizza (1 slice = 1/8 pizza)",88.0,300.0,130.0,15.0,40.0,800.0,28.0,1.0,5.0,14.0
+"Cheese Only, 14"" Large Hand-Tossed Style Pizza ( 1 slice = 1/8 pizza)",123.0,320.0,100.0,12.0,35.0,800.0,38.0,2.0,5.0,15.0
+"Pepperoni, 14"" Large Hand-Tossed Style Pizza ( 1 slice = 1/8 pizza)",121.0,330.0,120.0,14.0,35.0,910.0,38.0,2.0,5.0,15.0
+"Supreme, 14"" Large Hand-Tossed Style Pizza ( 1 slice = 1/8 pizza)",152.0,380.0,150.0,17.0,45.0,990.0,39.0,2.0,6.0,17.0
+"Pepperoni & Mushroom, 14"" Large Hand-Tossed Style Pizza ( 1 slice = 1/8 pizza)",131.0,310.0,100.0,11.0,30.0,800.0,38.0,2.0,5.0,14.0
+"Italian Sausage & Red Onion, 14"" Large Hand-Tossed Style Pizza ( 1 slice = 1/8 pizza)",142.0,350.0,130.0,14.0,35.0,840.0,40.0,2.0,6.0,15.0
+"Ham & Pineapple, 14"" Large Hand-Tossed Style Pizza ( 1 slice = 1/8 pizza)",131.0,290.0,80.0,9.0,25.0,810.0,40.0,2.0,7.0,13.0
+"Veggie Lover's®, 14"" Large Hand-Tossed Style Pizza ( 1 slice = 1/8 pizza)",144.0,290.0,80.0,9.0,25.0,760.0,39.0,2.0,6.0,13.0
+"Meat Lover's®, 14"" Large Hand-Tossed Style Pizza ( 1 slice = 1/8 pizza)",153.0,440.0,200.0,23.0,60.0,1250.0,38.0,2.0,5.0,20.0
+"Pepperoni Lover's®, 14"" Large Hand-Tossed Style Pizza ( 1 slice = 1/8 pizza)",140.0,400.0,170.0,19.0,55.0,1130.0,39.0,2.0,5.0,19.0
+"Hawaiian Luau, 14"" Large Hand-Tossed Style Pizza ( 1 slice = 1/8 pizza)",140.0,340.0,120.0,13.0,35.0,930.0,40.0,2.0,7.0,15.0
+"Dan's Original, 14"" Large Hand-Tossed Style Pizza ( 1 slice = 1/8 pizza)",147.0,370.0,150.0,17.0,40.0,950.0,38.0,2.0,5.0,17.0
+"Triple Meat Italiano, 14"" Large Hand-Tossed Style Pizza ( 1 slice = 1/8 pizza)",139.0,380.0,150.0,17.0,45.0,1060.0,38.0,2.0,5.0,18.0
+"Spicy Sicilian, 14"" Large Hand-Tossed Style Pizza ( 1 slice = 1/8 pizza)",142.0,350.0,140.0,15.0,40.0,1040.0,39.0,2.0,6.0,15.0
+"Ultimate Cheese Lover's, 14"" Large Hand-Tossed Style Pizza ( 1 slice = 1/8 pizza)",118.0,350.0,140.0,15.0,40.0,840.0,37.0,1.0,5.0,16.0
+"Cheese Only Garlic Parmesan, 14"" Large Hand-Tossed Style Pizza ( 1 slice = 1/8 pizza)",124.0,320.0,110.0,12.0,35.0,840.0,39.0,2.0,5.0,15.0
+"Pepperoni Garlic Parmesan, 14"" Large Hand-Tossed Style Pizza ( 1 slice = 1/8 pizza)",122.0,340.0,130.0,14.0,35.0,940.0,38.0,2.0,5.0,15.0
+"Supreme Garlic Parmesan, 14"" Large Hand-Tossed Style Pizza ( 1 slice = 1/8 pizza)",153.0,380.0,160.0,17.0,45.0,1030.0,40.0,2.0,6.0,17.0
+"Pepperoni & Mushroom Garlic Parmesan, 14"" Large Hand-Tossed Style Pizza ( 1 slice = 1/8 pizza)",132.0,320.0,100.0,11.0,30.0,840.0,39.0,2.0,5.0,14.0
+"Italian Sausage & Red Onion Garlic Parmesan, 14"" Large Hand-Tossed Style Pizza ( 1 slice = 1/8 pizza)",143.0,350.0,130.0,15.0,35.0,870.0,40.0,2.0,6.0,15.0
+"Ham & Pineapple Garlic Parmesan, 14"" Large Hand-Tossed Style Pizza ( 1 slice = 1/8 pizza)",133.0,300.0,80.0,9.0,25.0,840.0,41.0,2.0,7.0,14.0
+"Veggie Lover's® Garlic Parmesan, 14"" Large Hand-Tossed Style Pizza ( 1 slice = 1/8 pizza)",146.0,300.0,90.0,10.0,25.0,790.0,40.0,2.0,6.0,13.0
+"Meat Lover's® Garlic Parmesan, 14"" Large Hand-Tossed Style Pizza ( 1 slice = 1/8 pizza)",154.0,440.0,210.0,23.0,60.0,1290.0,39.0,2.0,5.0,20.0
+"Pepperoni Lover's® Garlic Parmesan, 14"" Large Hand-Tossed Style Pizza ( 1 slice = 1/8 pizza)",141.0,410.0,170.0,19.0,55.0,1170.0,39.0,2.0,5.0,19.0
+"Hawaiian Luau Garlic Parmesan, 14"" Large Hand-Tossed Style Pizza ( 1 slice = 1/8 pizza)",141.0,340.0,120.0,13.0,35.0,970.0,41.0,2.0,7.0,16.0
+"Dan's Original Garlic Parmesan, 14"" Large Hand-Tossed Style Pizza ( 1 slice = 1/8 pizza)",149.0,380.0,150.0,17.0,40.0,980.0,39.0,2.0,5.0,17.0
+"Triple Meat Italiano Garlic Parmesan, 14"" Large Hand-Tossed Style Pizza ( 1 slice = 1/8 pizza)",140.0,380.0,160.0,17.0,45.0,1100.0,39.0,2.0,5.0,18.0
+"Spicy Sicilian Garlic Parmesan, 14"" Large Hand-Tossed Style Pizza ( 1 slice = 1/8 pizza)",143.0,360.0,140.0,15.0,40.0,1080.0,40.0,2.0,6.0,16.0
+"Ultimate Cheese Lover's Garlic Parmesan, 14"" Large Hand-Tossed Style Pizza ( 1 slice = 1/8 pizza)",120.0,360.0,140.0,15.0,40.0,880.0,38.0,2.0,5.0,16.0
+"Cheese Only, 14"" Large Stuffed Crust Pizza (1 slice = 1/8 pizza)",132.0,340.0,120.0,14.0,40.0,900.0,39.0,2.0,6.0,16.0
+"Pepperoni, 14"" Large Stuffed Crust Pizza (1 slice = 1/8 pizza)",134.0,370.0,150.0,17.0,45.0,1040.0,39.0,2.0,5.0,17.0
+"Supreme, 14"" Large Stuffed Crust Pizza (1 slice = 1/8 pizza)",163.0,420.0,180.0,20.0,55.0,1120.0,40.0,2.0,6.0,19.0
+"Pepperoni & Mushroom, 14"" Large Stuffed Crust Pizza (1 slice = 1/8 pizza)",142.0,350.0,130.0,14.0,40.0,930.0,39.0,2.0,6.0,16.0
+"Italian Sausage & Red Onion, 14"" Large Stuffed Crust Pizza (1 slice = 1/8 pizza)",153.0,390.0,160.0,17.0,45.0,970.0,41.0,2.0,6.0,17.0
+"Ham & Pineapple, 14"" Large Stuffed Crust Pizza (1 slice = 1/8 pizza)",143.0,330.0,110.0,12.0,40.0,940.0,41.0,2.0,7.0,15.0
+"Veggie Lover's®, 14"" Large Stuffed Crust Pizza (1 slice = 1/8 pizza)",155.0,330.0,110.0,12.0,35.0,880.0,41.0,2.0,6.0,15.0
+"Meat Lover's®, 14"" Large Stuffed Crust Pizza (1 slice = 1/8 pizza)",165.0,480.0,230.0,26.0,70.0,1380.0,39.0,2.0,6.0,22.0
+"Pepperoni Lover's®, 14"" Large Stuffed Crust Pizza (1 slice = 1/8 pizza)",149.0,430.0,190.0,21.0,60.0,1230.0,40.0,2.0,6.0,20.0
+"Hawaiian Luau, 14"" Large Stuffed Crust Pizza (1 slice = 1/8 pizza)",151.0,380.0,140.0,16.0,45.0,1050.0,41.0,2.0,7.0,17.0
+"Dan's Original, 14"" Large Stuffed Crust Pizza (1 slice = 1/8 pizza)",159.0,410.0,180.0,20.0,50.0,1080.0,40.0,2.0,6.0,19.0
+"Triple Meat Italiano, 14"" Large Stuffed Crust Pizza (1 slice = 1/8 pizza)",151.0,420.0,180.0,20.0,55.0,1190.0,39.0,2.0,6.0,20.0
+"Spicy Sicilian, 14"" Large Stuffed Crust Pizza (1 slice = 1/8 pizza)",153.0,390.0,160.0,18.0,50.0,1160.0,40.0,2.0,6.0,17.0
+"Ultimate Cheese Lover's, 14"" Large Stuffed Crust Pizza (1 slice = 1/8 pizza)",127.0,380.0,160.0,17.0,45.0,940.0,38.0,1.0,5.0,17.0
+"Cheese Only, 6"" Personal Pan Pizza® (Whole Pizza)",207.0,590.0,210.0,24.0,55.0,1290.0,69.0,3.0,7.0,26.0
+"Pepperoni, 6"" Personal Pan Pizza® (Whole Pizza)",201.0,610.0,240.0,26.0,55.0,1410.0,67.0,3.0,6.0,26.0
+"Supreme, 6"" Personal Pan Pizza® (Whole Pizza)",256.0,720.0,320.0,36.0,80.0,1680.0,69.0,4.0,7.0,30.0
+"Pepperoni & Mushroom, 6"" Personal Pan Pizza® (Whole Pizza)",214.0,570.0,200.0,23.0,45.0,1250.0,68.0,4.0,7.0,24.0
+"Italian Sausage & Red Onion, 6"" Personal Pan Pizza® (Whole Pizza)",244.0,690.0,290.0,32.0,65.0,1440.0,71.0,4.0,8.0,28.0
+"Ham & Pineapple, 6"" Personal Pan Pizza® (Whole Pizza)",215.0,550.0,180.0,20.0,45.0,1260.0,71.0,3.0,9.0,23.0
+"Veggie Lover's®, 6"" Personal Pan Pizza® (Whole Pizza)",233.0,550.0,180.0,20.0,35.0,1190.0,70.0,4.0,8.0,22.0
+"Meat Lover's®, 6"" Personal Pan Pizza® (Whole Pizza)",263.0,830.0,410.0,46.0,100.0,2110.0,68.0,3.0,7.0,36.0
+"Pepperoni Lover's®, 6"" Personal Pan Pizza® (Whole Pizza)",230.0,720.0,310.0,34.0,85.0,1760.0,69.0,3.0,7.0,32.0
+"Hawaiian Luau, 6"" Personal Pan Pizza® (Whole Pizza)",227.0,620.0,230.0,25.0,55.0,1440.0,71.0,3.0,9.0,26.0
+"Dan's Original, 6"" Personal Pan Pizza® (Whole Pizza)",251.0,720.0,320.0,36.0,75.0,1600.0,69.0,4.0,7.0,31.0
+"Triple Meat Italiano, 6"" Personal Pan Pizza® (Whole Pizza)",239.0,730.0,330.0,36.0,80.0,1770.0,68.0,3.0,6.0,32.0
+"Spicy Sicilian, 6"" Personal Pan Pizza® (Whole Pizza)",245.0,680.0,290.0,32.0,70.0,1730.0,69.0,4.0,7.0,29.0
+"Ultimate Cheese Lover's, 6"" Personal Pan Pizza® (Whole Pizza)",207.0,660.0,270.0,30.0,65.0,1400.0,68.0,3.0,6.0,29.0
+"Classic, P'Zone® Pizza (1/2 order)",173.0,470.0,150.0,16.0,40.0,1070.0,61.0,2.0,3.0,20.0
+"Pepperoni, P'Zone® Pizza (1/2 order)",158.0,450.0,140.0,15.0,40.0,1120.0,60.0,2.0,2.0,19.0
+"Meaty, P'Zone® Pizza (1/2 order)",187.0,550.0,210.0,23.0,55.0,1370.0,61.0,2.0,2.0,24.0
+"Chicken Alfredo, Tuscani Pastas (1/2 pan)",282.0,580.0,290.0,32.0,50.0,1250.0,49.0,4.0,4.0,23.0
+"Meaty Marinara, Tuscani Pastas (1/2 pan)",272.0,450.0,180.0,20.0,70.0,1100.0,44.0,5.0,8.0,22.0
+"Cheese Only, 9"" Personal PANormous™ Pizza (Whole Pizza)",381.0,1100.0,410.0,45.0,105.0,2400.0,124.0,6.0,10.0,48.0
+"Pepperoni, 9"" Personal PANormous™ Pizza (Whole Pizza)",367.0,1100.0,430.0,48.0,100.0,2540.0,121.0,6.0,9.0,47.0
+"Supreme, 9"" Personal PANormous™ Pizza (Whole Pizza)",462.0,1270.0,560.0,62.0,130.0,2920.0,125.0,7.0,11.0,54.0
+"Pepperoni & Mushroom, 9"" Personal PANormous™ Pizza (Whole Pizza)",397.0,1050.0,380.0,42.0,85.0,2290.0,123.0,7.0,10.0,45.0
+"Italian Sausage & Red Onion, 9"" Personal PANormous™ Pizza (Whole Pizza)",440.0,1210.0,500.0,56.0,110.0,2550.0,128.0,7.0,12.0,50.0
+"Ham & Pineapple, 9"" Personal PANormous™ Pizza (Whole Pizza)",399.0,1020.0,330.0,37.0,80.0,2300.0,128.0,6.0,14.0,43.0
+"Veggie Lover's®, 9"" Personal PANormous™ Pizza (Whole Pizza)",439.0,1010.0,340.0,38.0,70.0,2240.0,127.0,8.0,12.0,42.0
+"Meat Lover's®, 9"" Personal PANormous™ Pizza (Whole Pizza)",465.0,1470.0,720.0,80.0,175.0,3670.0,123.0,6.0,10.0,64.0
+"Pepperoni Lover's®, 9"" Personal PANormous™ Pizza (Whole Pizza)",457.0,1290.0,560.0,62.0,150.0,3160.0,124.0,6.0,10.0,59.0
+"Hawaiian Luau, 9"" Personal PANormous™ Pizza (Whole Pizza)",423.0,1150.0,440.0,49.0,105.0,2670.0,129.0,6.0,14.0,49.0
+"Dan's Original, 9"" Personal PANormous™ Pizza (Whole Pizza)",452.0,1270.0,560.0,62.0,125.0,2810.0,124.0,7.0,10.0,55.0
+"Triple Meat Italiano, 9"" Personal PANormous™ Pizza (Whole Pizza)",424.0,1280.0,560.0,62.0,135.0,3070.0,123.0,6.0,9.0,56.0
+"Spicy Sicilian, 9"" Personal PANormous™ Pizza (Whole Pizza)",439.0,1220.0,520.0,57.0,115.0,3150.0,126.0,7.0,11.0,51.0
+"Ultimate Cheese Lover's, 9"" Personal PANormous™ Pizza (Whole Pizza)",374.0,1200.0,510.0,56.0,120.0,2560.0,121.0,5.0,9.0,53.0
+"Stuffed Pizza Rollers, Stuffed Pizza Rollers (Each)",76.0,220.0,90.0,10.0,25.0,580.0,24.0,1.0,3.0,10.0
+"Ranch Dipping Sauce (1.5 oz), Stuffed Pizza Rollers (Each)",43.0,220.0,210.0,23.0,10.0,420.0,2.0,0.0,1.0,0.0
+"Marinara Dipping Sauce (3 oz), Stuffed Pizza Rollers (Each)",85.0,60.0,0.0,0.0,0.0,440.0,12.0,2.0,9.0,2.0
+Baked Hot Wings (6 pieces),132.0,300.0,180.0,18.0,165.0,1290.0,3.0,0.0,0.0,30.0
+Baked Mild Wings (6 pieces),132.0,330.0,180.0,21.0,165.0,1290.0,3.0,0.0,0.0,30.0
+Wing Ranch Dipping Sauce (1.5 oz),43.0,220.0,210.0,23.0,10.0,420.0,2.0,0.0,1.0,0.0
+Wing Blue Cheese Dipping Sauce (1.5 oz),43.0,230.0,210.0,24.0,20.0,420.0,2.0,0.0,2.0,1.0
+Breadsticks (each),220.0,700.0,225.0,25.0,0.0,1300.0,95.0,5.0,10.0,25.0
+Cheese Breadsticks (5 pieces),280.0,850.0,300.0,30.0,75.0,1950.0,100.0,5.0,10.0,40.0
+Marinara Dipping Sauce (3 oz),85.0,60.0,0.0,0.0,0.0,440.0,12.0,2.0,9.0,2.0
+Cinnamon Sticks (2 pieces),55.0,160.0,40.0,4.5,0.0,210.0,26.0,1.0,8.0,4.0
+White Icing Dipping Cup (2 oz),57.0,170.0,0.0,0.0,0.0,5.0,44.0,0.0,38.0,0.0
+HERSHEY'S® Chocolate Dunkers® (2 pieces),60.0,190.0,70.0,8.0,0.0,220.0,27.0,2.0,9.0,5.0
+"All American, Bone Out Wings (8 pieces)",216.0,600.0,280.0,32.0,80.0,1960.0,44.0,4.0,0.0,40.0
+"Buffalo Mild, Bone Out Wings (8 pieces)",292.0,760.0,320.0,36.0,80.0,4080.0,72.0,4.0,8.0,40.0
+"Buffalo Medium, Bone Out Wings (8 pieces)",292.0,760.0,320.0,36.0,80.0,3960.0,72.0,4.0,8.0,40.0
+"Buffalo Burnin Hot, Bone Out Wings (8 pieces)",292.0,760.0,320.0,32.0,80.0,4000.0,72.0,4.0,8.0,40.0
+"Honey BBQ, Bone Out Wings (8 pieces)",328.0,880.0,280.0,32.0,80.0,2880.0,108.0,4.0,48.0,40.0
+"Spicy Asian, Bone Out Wings (8 pieces)",320.0,840.0,280.0,32.0,80.0,2760.0,96.0,4.0,52.0,40.0
+"Garlic Parmesan, Bone Out Wings (8 pieces)",284.0,1040.0,680.0,76.0,80.0,2840.0,44.0,4.0,44.0,44.0
+"Spicy BBQ, Bone Out Wings (8 pieces)",324.0,800.0,280.0,32.0,100.0,3760.0,84.0,4.0,44.0,44.0
+"Lemon Pepper, Bone Out Wings (8 pieces)",288.0,880.0,440.0,48.0,80.0,2480.0,72.0,4.0,28.0,40.0
+"All American, Crispy Bone In Wings* (8 pieces)",220.0,200.0,130.0,14.0,45.0,500.0,8.0,1.0,0.0,9.0
+"Buffalo Mild, Crispy Bone In Wings* (8 pieces)",300.0,920.0,520.0,60.0,180.0,4160.0,64.0,4.0,8.0,36.0
+"Buffalo Medium, Crispy Bone In Wings* (8 pieces)",300.0,920.0,520.0,60.0,180.0,4040.0,64.0,8.0,8.0,36.0
+"Buffalo Burnin Hot, Crispy Bone In Wings* (8 pieces)",300.0,920.0,520.0,60.0,180.0,4080.0,64.0,4.0,8.0,36.0
+"Honey BBQ, Crispy Bone In Wings* (8 pieces)",332.0,1040.0,520.0,56.0,180.0,2960.0,96.0,4.0,48.0,40.0
+"Spicy Asian, Crispy Bone In Wings* (8 pieces)",328.0,1000.0,520.0,56.0,180.0,2840.0,84.0,4.0,52.0,40.0
+"Garlic Parmesan, Crispy Bone In Wings* (8 pieces)",288.0,1200.0,920.0,100.0,180.0,2920.0,36.0,4.0,4.0,40.0
+"Spicy BBQ, Crispy Bone In Wings* (8 pieces)",328.0,960.0,520.0,56.0,200.0,3800.0,76.0,4.0,44.0,36.0
+"Lemon Pepper, Crispy Bone In Wings* (8 pieces)",292.0,1080.0,680.0,76.0,180.0,2560.0,64.0,4.0,28.0,36.0
+"All American, Traditional Wings* (8 pieces)",156.0,320.0,180.0,20.0,160.0,1160.0,0.0,0.0,0.0,28.0
+"Buffalo Mild, Traditional Wings* (8 pieces)",236.0,440.0,200.0,24.0,160.0,3320.0,32.0,4.0,8.0,32.0
+"Buffalo Medium, Traditional Wings* (8 pieces)",236.0,440.0,200.0,24.0,160.0,3200.0,32.0,4.0,8.0,32.0
+"Buffalo Burnin Hot, Traditional Wings* (8 pieces)",236.0,440.0,200.0,24.0,160.0,3240.0,32.0,4.0,8.0,32.0
+"Honey BBQ, Traditional Wings* (8 pieces)",268.0,560.0,180.0,20.0,160.0,2120.0,64.0,0.0,48.0,32.0
+"Spicy Asian, Traditional Wings* (8 pieces)",260.0,520.0,180.0,20.0,160.0,2000.0,52.0,0.0,52.0,32.0
+"Garlic Parmesan, Traditional Wings* (8 pieces)",224.0,720.0,600.0,64.0,180.0,2080.0,4.0,0.0,4.0,32.0
+"Spicy BBQ, Traditional Wings* (8 pieces)",264.0,480.0,180.0,20.0,180.0,3000.0,44.0,0.0,44.0,32.0
+"Lemon Pepper, Traditional Wings* (8 pieces)",228.0,600.0,360.0,40.0,160.0,1720.0,32.0,0.0,28.0,32.0
+Apple Pie (2 pies),348.0,1320.0,640.0,68.0,0.0,760.0,160.0,8.0,80.0,8.0
+Fried Cheese Sticks (4 pcs),476.0,1520.0,880.0,96.0,160.0,4080.0,116.0,8.0,12.0,52.0
+Wedge Fries (side order),492.0,1280.0,640.0,72.0,0.0,2120.0,140.0,12.0,0.0,16.0
+Mountain Dew®,454.0,220.0,0.0,0.0,0.0,70.0,58.0,0.0,58.0,0.0
+Mountain Dew,624.0,300.0,0.0,0.0,0.0,100.0,80.0,0.0,80.0,0.0
+Mountain Dew,907.0,440.0,0.0,0.0,0.0,140.0,116.0,0.0,116.0,0.0
+Pepsi®,454.0,200.0,0.0,0.0,0.0,50.0,56.0,0.0,54.0,0.0
+Pepsi,624.0,280.0,0.0,0.0,0.0,70.0,77.0,0.0,74.0,0.0
+Pepsi,907.0,400.0,0.0,0.0,0.0,100.0,112.0,0.0,108.0,0.0
+Diet Pepsi®,454.0,0.0,0.0,0.0,0.0,50.0,0.0,0.0,0.0,0.0
+Diet Pepsi,624.0,0.0,0.0,0.0,0.0,70.0,0.0,0.0,0.0,0.0
+Diet Pepsi,907.0,0.0,0.0,0.0,0.0,100.0,0.0,0.0,0.0,0.0
+Sierra Mist®,454.0,200.0,0.0,0.0,0.0,40.0,54.0,0.0,54.0,0.0
+Sierra Mist,624.0,275.0,0.0,0.0,0.0,60.0,74.0,0.0,74.0,0.0
+Sierra Mist,907.0,400.0,0.0,0.0,0.0,80.0,108.0,0.0,108.0,0.0
+Enchilidas Verdas o Rojas,216.7,210.0,8.9,4.9,56.0,428.6,14.6,1.8,1.4,19.4
+Flautas,190.0,78.0,10.0,4.0,26.0,120.0,16.0,2.0,0.0,8.0
+Chile Verde o Rojo,196.0,100.0,6.0,2.0,27.0,1128.0,21.0,6.0,5.6,15.0
+Carne con Chile,190.0,181.0,8.0,2.5,30.0,620.0,17.0,4.0,6.0,12.0
+Chille Rellenos,405.0,369.0,13.0,0.0,45.0,817.0,52.0,0.0,4.0,17.0
+Pollo Asado/Grilled Chicken,110.0,85.0,5.0,1.0,70.0,410.0,1.0,0.0,0.0,14.0
+Carne Asada,316.0,113.0,18.0,6.0,104.0,237.0,1.0,0.0,0.0,34.0
+Costillas en Salsa Verde o Roja,303.0,118.0,18.0,1.6,43.0,193.0,17.0,6.0,0.0,18.0
+Huevos Rancheros,327.3,218.0,8.2,2.8,216.9,1391.1,37.3,7.7,1.2,26.3
+Huevos a la Mexicana,545.0,392.0,44.0,15.0,775.0,973.0,9.6,2.4,5.6,27.0
+Huevos con Chorizo,739.3,404.0,37.7,12.6,437.1,1521.8,63.0,8.9,3.6,34.3
+Chilaquiles Rojos o Verdes,443.0,450.0,32.0,9.0,0.0,0.0,31.0,0.0,5.0,9.0
+Steak & Eggs,539.0,225.0,40.0,15.0,497.0,828.0,0.7,0.0,0.4,42.0
+Menudo,130.0,240.0,5.0,2.0,21.0,1661.0,30.0,6.0,4.0,17.0
+Pozole Soup,313.0,240.0,14.0,5.0,95.0,428.0,16.0,2.0,3.0,30.0
+Caldo de Rez Soup,173.0,240.0,4.2,1.4,44.0,412.0,13.0,3.6,15.6,21.4
+Caldo de Pollo/Chicken Soup,87.0,240.0,2.9,0.8,7.0,343.0,8.0,0.0,3.8,6.0
+Caldo de Camaron/Shrimp Soup,206.0,240.0,3.0,1.0,42.9,619.0,22.0,3.9,1.9,17.3
+Asada/Steak Fajitas,540.0,532.0,22.0,8.0,80.0,620.0,50.0,3.0,6.0,31.0
+Pollo/Chicken Fajitas,450.0,379.98,21.0,3.0,135.0,1920.0,21.0,3.0,12.0,42.0
+Camaron/Shrimp Fajitas,153.6,284.0,0.1,0.0,0.0,1.7,5.2,1.5,0.0,0.7
+Pescado Frito/ Fried Fish,326.0,100.0,21.36,3.8339999999999996,83.0,1444.0,8.39,1.7,3.9,25.18
+Coctel De Caamaron/Shrimp Cocktail,315.0,140.0,12.0,2.0,221.0,944.0,29.0,10.0,14.0,29.0
+Camarones a la diabla,525.0,128.0,22.0,5.0,586.0,950.0,13.0,2.0,3.0,63.0
+Camarones a la Plancha,182.0,112.0,5.0,0.0,172.0,903.0,8.0,1.0,0.0,24.0
+Camarones al Ajo,252.0,141.0,15.0,5.1,229.0,1228.0,4.4,0.2,0.4,24.0
+Camarones Espanizados,245.0,100.0,12.0,2.0,183.0,487.0,11.0,0.0,0.0,38.0
+Asada/Steak Taco,197.0,69.0,8.9,2.4,42.0,135.0,13.0,2.6,0.8,16.0
+Lengua/Tongue Taco,390.0,57.0,27.5,5.6,71.0,83.0,23.0,3.4,1.0,13.3
+Carnitas/Fried Pork Taco,213.0,85.0,9.57,4.54,42.5,690.18,16.06,0.54,1.07,16.34
+Cabeza/Head Taco,130.0,57.0,5.0,2.0,0.0,150.0,13.0,0.0,13.0,8.0
+Pastor/Spicy Pork Taco,180.0,68.0,10.0,3.0,60.0,710.0,4.0,1.0,0.0,19.0
+Molida/Ground Beef Taco,260.0,132.0,13.0,5.0,50.0,550.0,17.0,1.0,1.0,17.0
+Pollo/Chicken Taco,184.0,120.0,6.2,2.5,28.0,213.0,19.0,1.2,1.3,13.0
+Tripas Taco,190.0,71.0,11.0,5.0,0.0,410.0,13.0,0.0,0.0,0.0
+Pescado/Fish Taco,244.0,121.0,12.0,4.1,43.0,326.0,18.0,1.5,1.4,16.0
+Camaron/Shrimp Taco,239.0,100.0,11.0,3.9,121.0,777.0,19.0,1.5,1.4,15.0
+Chile Verde o Roto Taco,332.5,100.0,8.5,2.1,36.1,680.9,42.5,3.0,2.4,20.2
+Asada/Steak Crispy Taco,290.0,69.0,17.0,4.0,35.0,640.0,20.0,2.0,2.0,13.0
+Lengua/Tongue Crispy Taco,390.0,80.0,27.5,5.6,71.0,83.0,23.0,3.4,1.0,13.3
+Carnitas/Fried Pork Crispy Taco,200.0,85.0,14.0,6.0,55.0,330.0,0.0,0.0,0.0,20.0
+Cabeza/Head Crispy Taco,130.0,57.0,5.0,2.0,40.0,150.0,13.0,0.0,0.0,8.0
+Pastor/Spicy Pork Crispy Taco,280.0,85.0,18.36,5.012,50.0,233.0,14.18,2.4,0.75,14.98
+Molida/Ground Beef Crispy Taco,260.0,96.39,14.0,5.0,50.0,330.0,15.0,2.0,1.0,16.0
+Pollo/Chicken Crispy Taco,190.0,119.07,8.0,2.5,40.0,380.0,16.0,2.0,1.0,12.0
+Tripas Crispy Taco,143.0,116.0,5.0,2.0,138.0,543.0,24.1,3.3,1.0,8.6
+Pescado/Fish Crispy Taco,127.5,131.0,3.4,0.6,27.5,80.0,12.1,1.7,0.3,12.8
+Camaron/Shrimp Crispy Taco,152.8,123.0,5.2,2.0,61.5,252.6,17.8,3.0,2.3,9.9
+Chile Verde o Roto Crispy Taco,110.0,243.81,7.0,3.0,25.0,390.0,2.0,0.0,0.0,9.0
+Lengua/Tongue Burrito,800.0,255.0,39.0,16.0,0.0,790.0,48.0,0.0,0.0,13.3
+Carnitas/Fried Pork Burrito,978.0,140.0,38.0,19.7,113.75,2430.86,87.82,4.53,3.33,38.78
+Cabeza/Head Burrito,510.0,200.0,22.0,11.0,55.0,1290.0,55.0,2.0,3.0,26.0
+Pastor/Spicy Pork Burrito,720.0,298.0,28.0,9.0,80.0,1270.0,85.0,0.0,31.0,25.0
+Molida/Ground Beef Burrito,317.9,179.0,18.2,6.9,54.1,672.9,21.5,2.3,1.2,15.9
+Pollo/Chicken Burrito,1268.25,452.0,68.34,19.03,106.5,2861.0,82.41,9.48,1.29,51.93
+Tripas Burrito,760.0,291.0,36.0,18.0,0.0,1770.0,70.0,0.0,0.0,39.0
+Pescado/Fish Burrito,999.0,228.0,31.0,9.5,102.0,1536.0,131.0,19.0,5.2,50.0
+Camaron/Shrimp Burrito,880.0,463.0,41.0,19.0,260.0,3020.0,80.0,8.0,5.0,49.0
+Chile Verde o Roto Burrito,874.0,198.45,35.2,14.1,88.0,1944.0,99.5,1.3,1.6,38.3
+Chimichanga,553.0,183.0,20.0,9.0,9.0,910.0,43.0,2.0,1.0,20.0
+Wet Burrito,416.0,506.0,21.6,11.2,78.5,1018.0,78.5,3.1,0.3,27.2
+Tortas/Sandwich,358.0,85.0,7.6,0.0,0.0,98.0,23.0,3.8,10.0,9.0
+Nachos,731.0,280.0,44.1,25.21,90.0,3048.75,52.91,6.18,9.0,25.0
+Tostadas,221.0,78.0,12.65,3.924,31.0,462.0,16.2,2.1,0.47,10.88
+Lengua/Tongue Quesadilla,1020.0,326.0,64.0,7.0,0.0,2010.0,57.0,0.0,0.0,54.0
+Carnitas/Fried Pork Quesadilla,397.4,155.0,23.1,9.7,79.2,920.5,13.5,8.0,0.5,36.6
+Cabeza/Head  Quesadilla,990.0,326.0,60.0,6.0,0.0,2110.0,57.0,0.0,0.0,55.0
+Pastor/Spicy Pork Quesadilla,1040.0,494.0,65.0,7.0,0.0,2260.0,58.0,0.0,0.0,55.0
+Molida/Ground Beef  Quesadilla,514.0,100.0,38.0,13.0,63.0,845.0,42.0,1.0,3.0,22.0
+Pollo/Chicken Quesadilla,510.0,190.0,28.0,12.0,75.0,1210.0,38.0,4.0,3.0,27.0
+Tripas  Quesadilla,1070.0,326.0,72.0,39.0,0.0,2420.0,48.0,0.0,0.0,58.0
+Pescado/Fish  Quesadilla,750.0,308.0,37.0,16.0,105.0,1660.0,69.0,3.0,2.0,35.0
+Camaron/Shrimp  Quesadilla,400.0,446.0,20.0,7.0,130.0,500.0,33.0,4.0,4.0,22.0
+Chile Verde o Roto  Quesadilla,460.0,114.0,17.0,8.0,75.0,860.0,41.0,0.0,1.0,32.0
