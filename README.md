@@ -1,4 +1,4 @@
-# Restaurant Data
+# The Diet Cost Subsistence Problem
 
 The Restaurant Meals Program by CalFresh, California's Food Stamp Program, allows individuals who are homeless, elderly (age 60 and over), and disabled CalFresh households to use CalFresh benefits to purchase prepared meals to participating restaurants.
 
